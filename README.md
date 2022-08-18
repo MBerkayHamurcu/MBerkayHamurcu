@@ -1,18 +1,15 @@
-### Hi there 👋
+# Welcome to my programming journey!🧑🏽‍💻
+## 🌱 Current projects:
+- Ecommerce Web Application (Node.js, Express, Vanilla JavaScript)
 
-A more detailed README will follow soon :)...
+- Personal website (Three.js)
 
-<!--
-**MBerkayHamurcu/MBerkayHamurcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Learning by doing:
+- HTML
+- CSS
+- JavaScript
+- Administering a linux server
+- Three.js
+- C
+#
+Feel free to contact me 💬
