@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A more detailed README will follow soon :)...
+
 <!--
 **MBerkayHamurcu/MBerkayHamurcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
