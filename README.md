@@ -5,9 +5,9 @@
 - Personal website (Three.js)
 
 ## 💡 Learning:
-- HTML
-- CSS
 - JavaScript
+- CSS
+- HTML
 - Administering a linux server
 - C
 #
