@@ -4,12 +4,11 @@
 
 - Personal website (Three.js)
 
-## 💡 Learning by doing:
+## 💡 Learning:
 - HTML
 - CSS
 - JavaScript
 - Administering a linux server
-- Three.js
 - C
 #
 Feel free to contact me 💬
