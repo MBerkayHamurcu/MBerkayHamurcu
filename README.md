@@ -1,8 +1,8 @@
 # Welcome to my programming journey!🧑🏽‍💻
 ## 🌱 Current projects:
-- E-commerce Web Application (Node.js, Express, Vanilla JavaScript)
+- E-commerce Web Application (Express, Vanilla JavaScript)
 
-- Personal website (Three.js)
+- Personal website (WebGL)
 
 ## 💡 Learning:
 - JavaScript
