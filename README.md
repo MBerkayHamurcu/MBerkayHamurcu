@@ -9,6 +9,6 @@
 - CSS
 - HTML
 - Administering a linux server
-- C
+- Rust
 #
 Feel free to contact me 💬
