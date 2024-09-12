@@ -36,6 +36,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
+    <img src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" width="70" height="36"/>
+  </a>
 
  <br>
 
