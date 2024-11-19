@@ -42,7 +42,13 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://www.logo.wine/a/logo/Nginx/Nginx-Logo.wine.svg" alt="nginx" width="65" height="36"/>
   </a>
-
+  <a href="https://deno.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4" alt="deno" width="30" height="30"/>
+  </a>
+  <a href="https://fresh.deno.dev" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/e75e4ce02448da3d2fad73976384697fd41f3c6f4a14ff96bf1267cdbfea3976/68747470733a2f2f66726573682e64656e6f2e6465762f6c6f676f2e737667" alt="fresh" width="32" height="32"/>
+  </a>
+  
  <br>
 
   <a href="https://authelia.com" target="_blank" rel="noreferrer">
