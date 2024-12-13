@@ -2,7 +2,7 @@
 
 <br>
 
-- 📫 How to reach me: **ber.kay.ha38@gmail.com**
+- 📫 How to reach me: **mail@hamurcu.dev**
 
 <br>
 
