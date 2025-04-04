@@ -55,7 +55,7 @@
     <img src="https://camo.githubusercontent.com/bea2da4de8f6101f3d4f819585c23b01a08f5bcb20af70b900ac5d936879a99a/68747470733a2f2f7777772e61757468656c69612e636f6d2f696d616765732f61757468656c69612d7469746c652e706e67" alt="authelia" width="75" height="26"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo.png" alt="docker" width="70" height="36"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-marques.com/wp-content/uploads/2021/03/Cloudflare-Embleme-500x283.png" alt="Cloudflare" width="50" height="28"/>
