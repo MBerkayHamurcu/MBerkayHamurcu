@@ -27,8 +27,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5U1Z_1OBTS4e1WA1iaCvZgB_934FgZMPWgA&s" alt="wpf-xaml" width="27" height="27"/>
+  <a href="https://nixos.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/4ad062cee62116f6055e2876e9638e7bb399d219/logo/nix-snowflake-colours.svg" alt="nixOS" width="28" height="28"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.eld6_TNR8oUOuXCAojj1CQHaDt?pid=ImgDet&rs=1" alt="nodejs" width="60" height="32"/>
@@ -93,9 +93,12 @@
 
  <br>
 
- <a href="https://kivy.org/" target="_blank" rel="noreferrer">
+  <a href="https://kivy.org/" target="_blank" rel="noreferrer">
     <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="kivy" width="40" height="28"/>
   </a>
+ <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" target="_blank" rel="noreferrer">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5U1Z_1OBTS4e1WA1iaCvZgB_934FgZMPWgA&s" alt="wpf-xaml" width="27" height="27"/>
+ </a>
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
