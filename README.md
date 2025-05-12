@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" target="_blank" rel="noreferrer">
-    <img src="http://i.zdnet.com/blogs/xamllogo.jpg" alt="wpf-xaml" width="27" height="35"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5U1Z_1OBTS4e1WA1iaCvZgB_934FgZMPWgA&s" alt="wpf-xaml" width="27" height="27"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.eld6_TNR8oUOuXCAojj1CQHaDt?pid=ImgDet&rs=1" alt="nodejs" width="60" height="32"/>
@@ -118,7 +118,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://lofrev.net/wp-content/photos/2016/06/raspberry_pi-_logo.png" alt="Raspberry Pi" width="30" height="36"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/800px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="30" height="36"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
